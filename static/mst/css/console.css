@@ -1,0 +1,25 @@
+/*/
+ *	@name	MST::console.css
+ *	@author	3Asec.h
+ *	@create	2014/12/01
+ *	@modify	2914/12/26
+/*/
+html, body, #shadow {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+html {
+	background-color: #000;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#shadow {
+	background-color: rgba(0, 0, 0, 0.6);
+	position: fixed;
+}
+#cmd {
+	padding: 5px;
+}

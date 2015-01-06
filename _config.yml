@@ -1,0 +1,6 @@
+# config
+name: 'MST-WEB'
+version: '2.0'
+
+# other config
+# markdown: kramdown

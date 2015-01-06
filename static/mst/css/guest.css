@@ -1,0 +1,14 @@
+#head {
+	background-color: #f0ad4e;
+	width: 100%;
+	height: 200px;
+	color: #FFFFFF;
+	padding-top: 45px;
+	margin-bottom: 10px;
+}
+.navbar {
+	margin-bottom: 0;
+}
+.input-group, .form-control {
+	margin-bottom: 5px;
+}
