@@ -9,6 +9,7 @@ body {
 	background-attachment: fixed;
 	background-image: url(../img/tm.jpg);
 	background-repeat: no-repeat;
+	background-size: 100%;
 }
 input {
 	outline: none;
