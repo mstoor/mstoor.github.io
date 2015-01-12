@@ -7,7 +7,7 @@ html, body, #main {
 body {
 	background-color: #000;
 	background-attachment: fixed;
-	background-image: url(../img/tm.jpg);
+	background-image: url(/static/mst/img/bg.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
